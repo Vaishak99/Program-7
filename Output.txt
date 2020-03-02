@@ -14,7 +14,7 @@ Output
 2017-02-12 and 2017-02-07
 
 Basic operation
-
+-comparison and sorting.
 
 Time complexity
 O(n²)
